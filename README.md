@@ -1,4 +1,3 @@
 # Formats
 
-Repository of popular format schemas.
-
+<https://supermodel.io/formats/> – repository of popular format schemas
