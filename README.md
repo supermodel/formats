@@ -1,2 +1,4 @@
-# formats
-Repository of popular format schemas
+# Formats
+
+Repository of popular format schemas.
+
